@@ -1,4 +1,4 @@
-## Hey, What's up! I'm [Giancarlo Cruz](https://www.linkedin.com/in/giancarlocruzh).
+## Hey, What's up! I'm Giancarlo Cruz from Costa Rica.
 
 ### 🔭 A cybersecurity student who likes technology, music, sports and stargazing. 
 ### 🔐 Currently developing my cybersecurity portfolio, find it [here](https://github.com/giankcruz/cybersecportfolio).
