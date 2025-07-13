@@ -1,6 +1,6 @@
 ## Hey, What's up! I'm [Giancarlo Cruz](https://www.linkedin.com/in/giancarlocruzh).
 
-### 🔭 A cybersecurity student who likes technology, music, sports and deep space. 
+### 🔭 A cybersecurity student who likes technology, music, sports and stargazing. 
 ### 💻 Focused on improving my skills in Cybersecurity, OS, Networks, and programming. 
 ### 🔐 Currently developing my cybersecurity portfolio, find it [here](https://github.com/giankcruz/cybersecportfolio).
 ### 🎯 Objetives:
