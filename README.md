@@ -1,11 +1,12 @@
 ## Hey, What's up! I'm [Giancarlo Cruz](https://www.linkedin.com/in/giancarlocruzh).
 
 ### 🔭 A cybersecurity student who likes technology, music, sports and deep space. 
-### 💻 Currently focused on improving my skills in Cybersecurity, OS, Networks, and programming. 
-### 🔐 I created cybersecurity portfolio. Please find it [here](https://github.com/giankcruz/cybersecportolio).
+### 💻 Focused on improving my skills in Cybersecurity, OS, Networks, and programming. 
+### 🔐 Currently developing my cybersecurity portfolio, find it [here](https://github.com/giankcruz/cybersecportfolio).
 ### 🎯 Objetives:
 * Google Cybersecurity Professional Certificate
 * CompTIA Security+
+* Become a SOC analyst
   
 <!--
 **giankcruz/giankcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
